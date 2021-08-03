@@ -1,0 +1,85 @@
+index,country,gold,silver,bronze,total,pos
+1,'People's Republic of China',32,21,16,69,2
+2,'United States of America',24,28,21,73,1
+3,'Japan',19,6,11,36,5
+4,'Australia',14,4,15,33,6
+5,'ROC',13,21,18,52,3
+6,'Great Britain',13,17,13,43,4
+7,'Germany',8,8,14,30,7
+8,'France',6,10,8,24,9
+9,'Netherlands',6,7,7,20,10
+10,'Republic of Korea',6,4,9,19,11
+11,'New Zealand',6,4,5,15,12
+12,'Italy',5,9,15,29,8
+13,'Hungary',4,4,3,11,16
+14,'Cuba',4,3,4,11,16
+15,'Czech Republic',4,3,1,8,20
+16,'Canada',3,4,7,14,13
+17,'Switzerland',3,4,5,12,15
+18,'Brazil',3,3,8,14,13
+19,'Croatia',3,3,2,8,20
+20,'Chinese Taipei',2,4,4,10,18
+21,'Sweden',2,3,0,5,27
+22,'Poland',2,2,2,6,23
+23,'Denmark',2,1,3,6,23
+24,'Jamaica',2,1,2,5,27
+25,'Norway',2,1,1,4,32
+25,'Slovenia',2,1,1,4,32
+27,'Ecuador',2,1,0,3,36
+28,'Greece',2,0,1,3,36
+28,'Uzbekistan',2,0,1,3,36
+30,'Kosovo',2,0,0,2,54
+30,'Qatar',2,0,0,2,54
+32,'Spain',1,4,4,9,19
+33,'Georgia',1,4,1,6,23
+34,'Romania',1,3,0,4,32
+34,'Venezuela',1,3,0,4,32
+36,'Hong Kong-China',1,2,0,3,36
+36,'South Africa',1,2,0,3,36
+36,'Slovakia',1,2,0,3,36
+39,'Austria',1,1,3,5,27
+39,'Indonesia',1,1,3,5,27
+39,'Serbia',1,1,3,5,27
+42,'Belgium',1,1,1,3,36
+42,'Ethiopia',1,1,1,3,36
+44,'Philippines',1,1,0,2,54
+44,'Tunisia',1,1,0,2,54
+46,'Turkey',1,0,5,6,23
+47,'Ireland',1,0,2,3,36
+47,'Israel',1,0,2,3,36
+49,'Belarus',1,0,1,2,54
+49,'Estonia',1,0,1,2,54
+49,'Fiji',1,0,1,2,54
+49,'Islamic Republic of Iran',1,0,1,2,54
+49,'Latvia',1,0,1,2,54
+54,'Bermuda',1,0,0,1,70
+54,'Morocco',1,0,0,1,70
+54,'Puerto Rico',1,0,0,1,70
+54,'Thailand',1,0,0,1,70
+58,'Armenia',0,2,1,3,36
+58,'Colombia',0,2,1,3,36
+58,'Dominican Republic',0,2,1,3,36
+61,'Ukraine',0,1,6,7,22
+62,'Mongolia',0,1,2,3,36
+62,'Portugal',0,1,2,3,36
+64,'India',0,1,1,2,54
+64,'Kenya',0,1,1,2,54
+64,'Kyrgyzstan',0,1,1,2,54
+64,'Nigeria',0,1,1,2,54
+64,'San Marino',0,1,1,2,54
+64,'Uganda',0,1,1,2,54
+70,'Bulgaria',0,1,0,1,70
+70,'Jordan',0,1,0,1,70
+70,'North Macedonia',0,1,0,1,70
+70,'Namibia',0,1,0,1,70
+70,'Turkmenistan',0,1,0,1,70
+75,'Azerbaijan',0,0,3,3,36
+75,'Kazakhstan',0,0,3,3,36
+75,'Mexico',0,0,3,3,36
+78,'Egypt',0,0,2,2,54
+79,'Argentina',0,0,1,1,70
+79,'Côte d'Ivoire',0,0,1,1,70
+79,'Finland',0,0,1,1,70
+79,'Ghana',0,0,1,1,70
+79,'Kuwait',0,0,1,1,70
+79,'Malaysia',0,0,1,1,70
